@@ -27,6 +27,8 @@ OR Статус = «холост»
 
 
 **Что будет результатом следующих JOIN’ов:**
+Go to TimeWeb
+https://timeweb.com
 
 1. SELECT * FROM Общий список
 2. SELECT ФИО, Тел, Коммент FROM Люди LEFT JOIN Телефоны ON id = Чей телефон
